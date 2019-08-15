@@ -9,16 +9,16 @@ diagnostic report
 
 ### Method/Approach to run the Smart Toy
 
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/How%20to%20run%20the%20game.png">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Images/Method.png">
 
-### Screenshots of Diagnostic Report
+### Example Diagnostic Report
 
 * Once the game is complete, a python script is used to generate a diagnostic report
 
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%231.png">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Images/Report%20%231.png">
 
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%232.png">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Images/Report%20%232.png">
 
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%233.png">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Images/Report%20%233.png">
 
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%234.png">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Images/Report%20%234.png">
