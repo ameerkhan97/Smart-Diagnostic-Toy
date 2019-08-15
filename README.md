@@ -5,8 +5,10 @@ recognition
 * Developed a python script to plot and analyze data from a csv file sent over bluetooth in order to generate a
 diagnostic report
 ### Screenshots
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%231.png" height="521.28" width="293.76">    <img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%232.png" height="521.28" width="293.76">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%231.png">
 
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%232.png">
 
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%233.png">
 
-<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%233.png" height="521.28" width="293.76">    <img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%234.png" height="521.28" width="293.76">
+<img src="https://github.com/ameerkhan97/Smart-Diagnostic-Toy/blob/master/Screenshot%20%234.png">
