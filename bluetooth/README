@@ -1,0 +1,15 @@
+This directory contains the bluetooth module that uses the second UNO32 UART 
+to transfer streams of data via bluetooth.
+
+FILES:
+	bluetooth_uart.h 
+		-contains the headers for bluetooth module
+		-include in the header directory
+			prototypes:
+				void SERIAL2_Init(void);
+				void PutChar2(char ch);
+				char GetChar2(void)
+				void BluetoothWriteString(const char *string)
+	bluetooth.c
+		-contains the source code for bluetooth module
+		-include in the source directory
