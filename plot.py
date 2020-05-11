@@ -1,5 +1,5 @@
 #Ameer Khan
-#script to plot/analyze data from csv file and create a report of the data
+#script to analyze, interpret and visually represent the test data from a csv file in a diagnostic report
 
 from scipy import integrate
 import matplotlib.pyplot as plt
